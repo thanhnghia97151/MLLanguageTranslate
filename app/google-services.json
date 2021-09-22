@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735419265413",
+    "project_id": "mlkitlanguage",
+    "storage_bucket": "mlkitlanguage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735419265413:android:711bbd7f472891896614ec",
+        "android_client_info": {
+          "package_name": "com.example.mllanguagetranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735419265413-5ndf9t9g1r3hfv0o636n38t23vvadqob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYct6SbLo3hPwKpDsVgkQ3BUXeGHXkDMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735419265413-5ndf9t9g1r3hfv0o636n38t23vvadqob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
